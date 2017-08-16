@@ -1,0 +1,104 @@
+
+.body{
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: #333;
+  
+  }
+  
+  .heading{
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+    color: #333;
+  
+  }
+  
+  .name{
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    font-family: 'Indie Flower';
+    font-size: 45px;
+    font-weight: 800;
+    text-transform: none;
+    color: #333;
+    line-height: 44px;
+  
+  }
+  
+  .navigation{
+    width: 100%;
+    text-align: center;
+    
+  }
+  
+  .navLink{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #333;
+  
+  }
+  
+  .navLink:hover{
+    text-decoration: underline;
+    color: aquamarine;
+    cursor: pointer;
+  
+  }
+  
+  .content{
+    width: 100%;
+    height: 85%;
+    margin: 5px 0px;
+    padding: 5px;
+    text-align: center;
+    color: #333;
+    /*border: 2px solid black;*/
+  
+  }
+  
+  .footie{
+    position: relative;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 10%;
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    color: #333;
+  
+  }
+  
+  .paragraph{
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    color: #333;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 400;
+    line-height: 20px;
+    font-size: 15px;
+  
+  }
+  
+  h2{
+    font-family: 'Rajdhani', sans-serif;
+  
+  }
+  

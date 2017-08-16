@@ -1,0 +1,77 @@
+/* You can add global styles to this file, and also import other style files */
+
+  .heading{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    color: #333;
+    margin: 0 0 5px 0;
+  }
+  
+  .name{
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 45px;
+    font-weight: 300;
+    text-transform: none;
+    color: #333;
+    line-height: 44px;
+  
+  }
+  
+  .navigation{
+    width: 100%;
+    text-align: center;
+  }
+  
+  .navLink{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #333;
+    
+  }
+  
+  .navLink:hover{
+    text-decoration: underline;
+    cursor: pointer;
+  
+  }
+  
+  .content{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    color: #333;
+    
+  }
+
+  .paragraph{
+    display: inline-block;
+    text-align: center;
+    color: #333;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 400;
+    line-height: 20px;
+    font-size: 15px;
+
+  }
+  
+  .footie{
+    position: inline-block;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    color: #333;
+  
+  }
