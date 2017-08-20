@@ -34,9 +34,9 @@
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
-    font-family: 'Merriweather', serif;
+    font-family: Helvetica, 'Merriweather', serif;
     font-size: 15px;
-    font-weight: 800;
+    font-weight: 300;
     text-transform: uppercase;
     text-decoration: none;
     color: #333;
@@ -61,7 +61,7 @@
     display: inline-block;
     text-align: center;
     color: #333;
-    font-family: 'Merriweather', serif;
+    font-family: 'Helvetica', 'Merriweather', serif;
     font-weight: 100;
     line-height: 20px;
     font-size: 15px;
